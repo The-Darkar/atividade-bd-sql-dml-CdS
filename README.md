@@ -156,6 +156,17 @@ Manipulação de Dados (DML - Consultas/Atualizações/Exclusões):
 
 Execute o script livraria_saber_dml_exemplos.sql para testar as consultas, atualizações e exclusões solicitadas na atividade. 
 
+## 🧪 Evidência de Execução no Ambiente Real
+
+A imagem abaixo mostra a execução dos comandos SQL no MySQL Workbench, incluindo:
+
+- Criação do banco de dados e da tabela `empleados`
+- Inserção de dados reais
+- Uso de variável para calcular o salário médio
+- Consulta condicional com `WHERE` para listar funcionários com salário acima da média
+
+![Execução SQL no Workbench](img/workbench-sql.jpeg)
+
 Forma 
 
 📝 Exemplos de Comandos DML 
