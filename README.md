@@ -160,6 +160,7 @@ Execute o script livraria_saber_dml_exemplos.sql para testar as consultas, atual
 🧪 Evidência de Execução no MySQL Workbench
 A imagem abaixo demonstra a execução dos comandos SQL no MySQL Workbench, comprovando a criação do banco, inserção de dados e consultas realizadas com sucesso:
 Execução SQL no Workbench
+![Execução SQL no Workbench](img/workbench-sql.jpg)
 
 
 Forma 
